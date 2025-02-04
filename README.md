@@ -17,4 +17,4 @@ O **AluraBooks** é um projeto desenvolvido como parte da Imersão Alura Front-E
 Projeto desenvolvido como parte dos estudos em front-end.
 
 **Você pode acessar o projeto online clicando no link abaixo:**
-👉 [Portfólio - Live Demo](https://alurabook-flax-seven.vercel.app/)
+👉 [AluraBooks - Live Demo](https://alurabook-flax-seven.vercel.app/)
